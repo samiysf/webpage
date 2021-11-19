@@ -1,0 +1,17 @@
+body {
+    background-color: sandybrown;
+    text-decoration: none;
+}
+ul {
+    font-size: 24px;
+}
+ul li {
+    margin-bottom: 7px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: sienna;
+}
+header a {
+    padding: 10px;
+    border: 1px solid;
+    margin-right: 30px;
+}

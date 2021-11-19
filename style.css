@@ -1,0 +1,30 @@
+body {
+    background-color: sandybrown;
+    text-decoration: none;
+}
+header {
+    border: 1px solid;
+    height: 80px;
+    
+}
+div.head {
+    font-size: 40px;
+    display: inline-block;
+    margin: 20px 0 20px 30px;
+}
+div.nav {
+    display: inline-block;
+    margin-left: 300px;
+    font-size: 20px;
+    
+}
+div.nav a {
+    padding: 10px;
+    border: 1px solid;
+    margin-left: 7px;
+}
+div.kod {
+    font-size: 24px;
+    text-indent: 10px;
+    padding-top: 25px;
+}

@@ -1,0 +1,12 @@
+body {
+    background-color: sandybrown;
+    text-decoration: none;
+    height:800px;
+}
+div.iletişim {
+    font-size: 20px;
+}
+div.anas a {
+    border: 1px solid;
+
+}
